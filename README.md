@@ -114,6 +114,8 @@ Google calendars appear only if the Google account is added in iPhone **Settings
 - **"Can't reach Google Drive":** Check the Wi-Fi. Changes wait on the phone and upload later.
 - **"Google Drive refused access":** Tap **Sign Out**, then tap **Sign in with Google**.
 - **App stops opening after 7 days:** Connect LocalDevVPN, open SideStore, and refresh Planner 3 in **My Apps**.
+- **SideStore can't connect to the iPhone:** Turn off any other VPN, such as Surfshark. Connect LocalDevVPN, then try again.
+- **Using Surfshark or another VPN:** iOS runs one VPN at a time. Renewals need LocalDevVPN, so switch back once a week.
 - **No Google events in Upcoming:** Add the Google account under iPhone Calendar Accounts, as shown above.
 
 ## Honest notes
