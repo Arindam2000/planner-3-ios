@@ -15,6 +15,15 @@
       "tintColor": "1A73E8",
       "versions": [
         {
+          "version": "1.0.1",
+          "buildVersion": "2",
+          "date": "2026-10-28",
+          "localizedDescription": "Fixes: Diagnostics no longer squeezes a label to one letter per line; if Google Drive access was not ticked at sign-in, the app now says so plainly and names Google's reason.",
+          "downloadURL": "https://github.com/Arindam2000/planner-3-ios/releases/download/ios-v1.0.1/Planner3.ipa",
+          "size": 18607667,
+          "minOSVersion": "17.0"
+        },
+        {
           "version": "1.0.0",
           "buildVersion": "1",
           "date": "2026-10-27",
